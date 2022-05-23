@@ -1,2 +1,2 @@
 # TelegramScraper
-Telegram scraper with member adding functionality in python.
+Telegram scraper and Member adder.
