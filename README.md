@@ -16,7 +16,7 @@ Everything from this point should be pretty straight forward as I took special c
 
 # Pannel
 ![image](https://user-images.githubusercontent.com/106054980/169859125-b0abc57a-3c64-40e3-b76b-e888766a300a.png)
-Once all the steps are completed you should be greeted by a window which looks like this(attached above. If you completed the previous steps properly you should be able to see your mobile number(s)<br>
+Once all the steps are completed you should be greeted by a window which looks like this. If you completed the previous steps properly you should be able to see your mobile number(s)<br>
 You can now use the pannel to scrape and add members to your own group!<br>
 Have fun using maven <3!<br>
 
