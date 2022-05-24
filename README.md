@@ -1,6 +1,3 @@
-# TelegramScraper
-Telegram scraper and Member adder.
-
 # Instructions
 Install the latest python version from https://www.python.org/downloads/. <br>
 Extract the zip file and run ``Install Requirements.bat`` <br>
