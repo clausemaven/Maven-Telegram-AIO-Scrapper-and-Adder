@@ -101,7 +101,7 @@ for char in ApiProm:
     sys.stdout.flush()
 time.sleep(1)
 
-client = TelegramClient(f"../sessions/{phone}", api_id, api_hash)
+client = TelegramClient(f"./sessions/{phone}", api_id, api_hash)
 
 client.connect()
 if not client.is_user_authorized():
